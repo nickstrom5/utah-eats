@@ -1,0 +1,21 @@
+{
+  "name": "Beehive Eats",
+  "short_name": "UT Eats",
+  "description": "Pastrami burgers, pie & red rock: a guide to 6,168 Utah restaurants.",
+  "start_url": "/utah-eats/",
+  "display": "browser",
+  "background_color": "#faf7f0",
+  "theme_color": "#071d49",
+  "icons": [
+    {
+      "src": "/utah-eats/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/utah-eats/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+ "schema": 1,
+ "version": "2026-11-05.1",
+ "records_through": "2026-11-05",
+ "published": "2026-11-05T22:10:12Z",
+ "min_app_build": 1,
+ "files": {
+  "detail-cache-valley-box-elder": {
+   "path": "detail-cache-valley-box-elder-6aaef97f2643.json",
+   "sha256": "6aaef97f2643fed81aff175014678de97b671ce9adad876f71d668082ea953d9",
+   "bytes": 17930,
+   "rows": 276
+  },
+  "detail-central-utah-west-desert": {
+   "path": "detail-central-utah-west-desert-67fc65a8e6f3.json",
+   "sha256": "67fc65a8e6f348b5e574afb9cc92966fa995d179a57c0c7b52692a87a0b8df23",
+   "bytes": 17147,
+   "rows": 271
+  },
+  "detail-moab-eastern-utah": {
+   "path": "detail-moab-eastern-utah-469696dbc94e.json",
+   "sha256": "469696dbc94ea7f1650398b65d8dd68dc6481f115af9f2f7aa775ab2aa2be7f3",
+   "bytes": 9288,
+   "rows": 151
+  },
+  "detail-ogden-davis": {
+   "path": "detail-ogden-davis-5cdce4126593.json",
+   "sha256": "5cdce4126593b3fa14810e1bb4b1753b4edfcef5711f084620711ca8bd7f1479",
+   "bytes": 68645,
+   "rows": 1008
+  },
+  "detail-park-city-the-uintas": {
+   "path": "detail-park-city-the-uintas-324cf6777c89.json",
+   "sha256": "324cf6777c894ebef7af1c35602a80eceb22abe77dbccecbb710e333922b8be5",
+   "bytes": 22186,
+   "rows": 362
+  },
+  "detail-salt-lake-valley": {
+   "path": "detail-salt-lake-valley-a2874ff788db.json",
+   "sha256": "a2874ff788db6fe8195271143bf6cd67729daa2c4031dbe27d1f818c6d137df3",
+   "bytes": 167359,
+   "rows": 2483
+  },
+  "detail-southern-utah": {
+   "path": "detail-southern-utah-2287b67fb8b9.json",
+   "sha256": "2287b67fb8b9045c823bcefc584f0028b913f4e4c8e058e8a0037208961b0804",
+   "bytes": 44074,
+   "rows": 645
+  },
+  "detail-utah-valley": {
+   "path": "detail-utah-valley-f3a7282569f2.json",
+   "sha256": "f3a7282569f25613db2b56d3343cf6550a47b5171fa9205858154abf7eb1cf3e",
+   "bytes": 71324,
+   "rows": 1046
+  },
+  "places": {
+   "path": "places-a01fb5ef86fd.json",
+   "sha256": "a01fb5ef86fd08d163c24b43c7464f37e26a5feefe299ead523a601946e11ee3",
+   "bytes": 1014285,
+   "rows": 6346
+  }
+ },
+ "counts": {
+  "places": 6346,
+  "files": 9,
+  "bytes": 1432238,
+  "restaurants": 6168
+ }
+}

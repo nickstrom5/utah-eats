@@ -1,0 +1,227 @@
+{
+ "generated": "2026-11-05",
+ "domain": "https://nickstrom5.github.io/utah-eats",
+ "restaurants": 6168,
+ "places_incl_hidden": 6346,
+ "towns": 199,
+ "counties": 29,
+ "on_an_official_list": 0,
+ "hand_checked_on_a_guide": 64,
+ "serves_alcohol_state_license": 0,
+ "guide_classics": 15,
+ "guide_redrock": 21,
+ "guide_burgers": 5,
+ "guide_islands": 4,
+ "guide_scones": 0,
+ "guide_skitowns": 15,
+ "guide_pies": 4,
+ "oldest": 3,
+ "honors": 20,
+ "michelin": {
+  "MICHELIN Recommended": 5,
+  "Bib Gourmand": 3,
+  "1 MICHELIN Star": 1
+ },
+ "james_beard": 11,
+ "americas_classics": 0,
+ "permits_updated": "",
+ "city_pages": {
+  "Salt Lake City": {
+   "restaurants": 852,
+   "listed": 29,
+   "classics": 14,
+   "redrock": 0,
+   "burgers": 4,
+   "islands": 1,
+   "scones": 0,
+   "skitowns": 0,
+   "pies": 0,
+   "hon": 13,
+   "oldest": 1
+  },
+  "Park City": {
+   "restaurants": 192,
+   "listed": 18,
+   "classics": 0,
+   "redrock": 0,
+   "burgers": 0,
+   "islands": 0,
+   "scones": 0,
+   "skitowns": 15,
+   "pies": 0,
+   "hon": 4,
+   "oldest": 0
+  },
+  "Moab": {
+   "restaurants": 69,
+   "listed": 7,
+   "classics": 0,
+   "redrock": 7,
+   "burgers": 0,
+   "islands": 0,
+   "scones": 0,
+   "skitowns": 0,
+   "pies": 0,
+   "hon": 0,
+   "oldest": 0
+  },
+  "Torrey": {
+   "restaurants": 15,
+   "listed": 5,
+   "classics": 0,
+   "redrock": 5,
+   "burgers": 0,
+   "islands": 0,
+   "scones": 0,
+   "skitowns": 0,
+   "pies": 0,
+   "hon": 0,
+   "oldest": 0
+  }
+ },
+ "cities_without_a_page": {
+  "Boulder": 3,
+  "South Salt Lake": 2,
+  "St. George": 0,
+  "Ogden": 0,
+  "Provo": 0,
+  "Sandy": 1,
+  "Millcreek": 1,
+  "Kanab": 1,
+  "Springdale": 0,
+  "Logan": 0,
+  "Cedar City": 0,
+  "Escalante": 2
+ },
+ "noindex_pages": [],
+ "web_app_data_bytes": {
+  "data/core.json": {
+   "raw": 457621,
+   "gzip": 100862
+  },
+  "data/detail-beaver-county.json": {
+   "raw": 1192,
+   "gzip": 452
+  },
+  "data/detail-box-elder-county.json": {
+   "raw": 4470,
+   "gzip": 1301
+  },
+  "data/detail-cache-county.json": {
+   "raw": 10104,
+   "gzip": 2806
+  },
+  "data/detail-carbon-county.json": {
+   "raw": 2483,
+   "gzip": 877
+  },
+  "data/detail-daggett-county.json": {
+   "raw": 183,
+   "gzip": 142
+  },
+  "data/detail-davis-county.json": {
+   "raw": 32253,
+   "gzip": 7891
+  },
+  "data/detail-duchesne-county.json": {
+   "raw": 1735,
+   "gzip": 629
+  },
+  "data/detail-emery-county.json": {
+   "raw": 907,
+   "gzip": 369
+  },
+  "data/detail-garfield-county.json": {
+   "raw": 2456,
+   "gzip": 951
+  },
+  "data/detail-grand-county.json": {
+   "raw": 3892,
+   "gzip": 1262
+  },
+  "data/detail-iron-county.json": {
+   "raw": 7578,
+   "gzip": 2193
+  },
+  "data/detail-juab-county.json": {
+   "raw": 1201,
+   "gzip": 465
+  },
+  "data/detail-kane-county.json": {
+   "raw": 2352,
+   "gzip": 849
+  },
+  "data/detail-millard-county.json": {
+   "raw": 1733,
+   "gzip": 643
+  },
+  "data/detail-morgan-county.json": {
+   "raw": 463,
+   "gzip": 241
+  },
+  "data/detail-piute-county.json": {
+   "raw": 147,
+   "gzip": 121
+  },
+  "data/detail-rich-county.json": {
+   "raw": 854,
+   "gzip": 334
+  },
+  "data/detail-salt-lake-county.json": {
+   "raw": 144883,
+   "gzip": 35543
+  },
+  "data/detail-san-juan-county.json": {
+   "raw": 1067,
+   "gzip": 415
+  },
+  "data/detail-sanpete-county.json": {
+   "raw": 2166,
+   "gzip": 725
+  },
+  "data/detail-sevier-county.json": {
+   "raw": 2528,
+   "gzip": 817
+  },
+  "data/detail-summit-county.json": {
+   "raw": 11454,
+   "gzip": 3463
+  },
+  "data/detail-tooele-county.json": {
+   "raw": 5300,
+   "gzip": 1620
+  },
+  "data/detail-uintah-county.json": {
+   "raw": 2736,
+   "gzip": 858
+  },
+  "data/detail-utah-county.json": {
+   "raw": 61326,
+   "gzip": 14556
+  },
+  "data/detail-wasatch-county.json": {
+   "raw": 4015,
+   "gzip": 1310
+  },
+  "data/detail-washington-county.json": {
+   "raw": 25415,
+   "gzip": 6606
+  },
+  "data/detail-wayne-county.json": {
+   "raw": 1337,
+   "gzip": 590
+  },
+  "data/detail-weber-county.json": {
+   "raw": 27153,
+   "gzip": 6986
+  },
+  "data/ids.json": {
+   "raw": 80212,
+   "gzip": 46845
+  },
+  "data/ut_shapes.json": {
+   "raw": 42099,
+   "gzip": 8891
+  }
+ }
+}
